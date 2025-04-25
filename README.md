@@ -25,6 +25,8 @@ DeepSORT is an advanced tracking algorithm that builds on the Simple Online and 
 
 During the tests, the system was able to achieve an average **FPS** of **X.XX FPS**. This was measured over a batch of 100 frames.
 
+![FPS Average](https://github.com/Riteshswmai/ML-Project-Object-Detection/blob/main/fps_avg.png)
+
 
 ## Hardware Configuration
 
@@ -36,9 +38,10 @@ The following hardware configuration was used during testing:
 
 ## Video Link
 
-You can view the output video of the system in action on Google Drive:
+You can view the output video of the system in action below:
 
-[**Google Drive Video Link**]([link_to_video](https://drive.google.com/file/d/1KZgXnIXrIbaueF8i4nlh7Uu8qZ4v-Jxt/view?usp=sharing))
+![Output Video](https://github.com/Riteshswmai/ML-Project-Object-Detection/blob/main/output_video.mp4)
+
 
 ## Additional Techniques, Optimizations, or Architectural Decisions
 

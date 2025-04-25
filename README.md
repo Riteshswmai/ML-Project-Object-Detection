@@ -40,7 +40,7 @@ The following hardware configuration was used during testing:
 
 You can view the output video of the system in action below:
 
-![Output Video](https://github.com/Riteshswmai/ML-Project-Object-Detection/blob/main/output_video.mp4)
+![Output Video](https://drive.google.com/file/d/1KZgXnIXrIbaueF8i4nlh7Uu8qZ4v-Jxt/view?usp=sharing)
 
 
 ## Additional Techniques, Optimizations, or Architectural Decisions
